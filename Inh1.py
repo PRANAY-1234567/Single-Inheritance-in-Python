@@ -13,7 +13,6 @@ class B(A):   # Inheriting class A
     def method4(self):
         print("Inside method 4")
 
-
 class Inh1:
     @staticmethod
     def main():
