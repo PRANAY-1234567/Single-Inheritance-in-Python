@@ -138,3 +138,5 @@ class B(A)
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="763" height="828" alt="image" src="https://github.com/user-attachments/assets/4c6006de-860c-4ae3-8911-45263e5b1d57" />
