@@ -79,7 +79,6 @@ class Inh1:
 # Calling main method
 Inh1.main()
 ```
-
 ---
 
 ## ▶️ Output
