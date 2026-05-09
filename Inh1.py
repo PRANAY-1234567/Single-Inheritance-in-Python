@@ -23,5 +23,4 @@ class Inh1:
         obj.method4()
 
 
-# Calling main method
 Inh1.main()
