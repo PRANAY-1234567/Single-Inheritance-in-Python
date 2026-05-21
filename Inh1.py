@@ -5,7 +5,6 @@ class A:
     def method2(self):
         print("Inside method 2")
 
-
 class B(A):   # Inheriting class A
     def method3(self):
         print("Inside method 3")
